@@ -5,7 +5,7 @@
 - 
 - 1. Sun Araw - Horse Steppin
 - 2. M O O N - Hydrogen
-- 3  M O O N - Paris
+- 3. M O O N - Paris
 - 4. M O O N - Crystals
 - 5. Sun Araw - Deep Cover
 - 6. Jasper Byrne - Miami
